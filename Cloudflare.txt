@@ -1,0 +1,41 @@
+# Cloudflare Core Services
+162.159.36.100 cloudflare.com
+162.159.36.100 www.cloudflare.com
+162.159.36.100 dash.cloudflare.com
+162.159.36.100 api.cloudflare.com
+162.159.36.100 support.cloudflare.com
+162.159.36.100 blog.cloudflare.com
+162.159.36.100 status.cloudflare.com
+162.159.36.100 developers.cloudflare.com
+
+# Cloudflare DNS
+162.159.36.100 one.one.one.one
+162.159.36.100 1.1.1.1
+162.159.36.100 1dot1dot1dot1.cloudflare-dns.com
+162.159.36.100 cloudflare-dns.com
+162.159.36.100 security.cloudflare-dns.com
+162.159.36.100 family.cloudflare-dns.com
+
+# Cloudflare CDN & Edge
+162.159.36.100 cdnjs.cloudflare.com
+162.159.36.100 cdnjs.com
+162.159.36.100 cdn.cloudflare.net
+162.159.36.100 static.cloudflareinsights.com
+162.159.36.100 beacon.cloudflare.com
+
+# Cloudflare Workers / Pages
+162.159.36.100 workers.cloudflare.com
+162.159.36.100 workers.dev
+162.159.36.100 pages.cloudflare.com
+
+# Cloudflare Nameservers
+162.159.36.100 a.ns.cloudflare.com
+162.159.36.100 b.ns.cloudflare.com
+162.159.36.100 c.ns.cloudflare.com
+162.159.36.100 d.ns.cloudflare.com
+
+# Cloudflare Other Services
+162.159.36.100 api.cloudflareclient.com
+162.159.36.100 zero-trust-dashboard.cloudflareaccess.com
+162.159.36.100 warp.cloudflareclient.com
+162.159.36.100 update.cloudflareclient.com
